@@ -4,6 +4,8 @@
 # Fourth We use "git add <file> or git add ." to add files in load ing process one by one or all at once respectively.
 # Fifth We us "git commit -m 'random msg'" to commit the changes in the file with a message (optional)
 # Sixth We use "git push" to upload in the repo final step
+# To check if any other person have made any sort of change in our file we use "git pull"
+# To save any change in file first "git commit" then "git push" to upload the changes
 
 from imageai.Classification import ImageClassification
 import os
