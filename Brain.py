@@ -5,7 +5,7 @@
 # Fifth We us "git commit -m 'random msg'" to commit the changes in the file with a message (optional)
 # Sixth We use "git push" to upload in the repo final step
 # To check if any other person have made any sort of change in our file we use "git pull"
-# To save any change in file first "git commit" then "git push" to upload the changes
+# To save any change in file first "git add ." then "git commit" then "git push" to upload the changes
 
 from imageai.Classification import ImageClassification
 import os
